@@ -1,0 +1,15 @@
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\bin\Debug\net7.0\EX13.exe
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\bin\Debug\net7.0\EX13.deps.json
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\bin\Debug\net7.0\EX13.runtimeconfig.json
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\bin\Debug\net7.0\EX13.dll
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\bin\Debug\net7.0\EX13.pdb
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.csproj.AssemblyReference.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.AssemblyInfoInputs.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.AssemblyInfo.cs
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.csproj.CoreCompileInputs.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.dll
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\refint\EX13.dll
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.pdb
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\EX13.genruntimeconfig.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX13\obj\Debug\net7.0\ref\EX13.dll
