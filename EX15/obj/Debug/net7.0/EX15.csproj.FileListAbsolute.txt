@@ -1,0 +1,15 @@
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\bin\Debug\net7.0\EX15.exe
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\bin\Debug\net7.0\EX15.deps.json
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\bin\Debug\net7.0\EX15.runtimeconfig.json
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\bin\Debug\net7.0\EX15.dll
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\bin\Debug\net7.0\EX15.pdb
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.csproj.AssemblyReference.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.AssemblyInfoInputs.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.AssemblyInfo.cs
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.csproj.CoreCompileInputs.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.dll
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\refint\EX15.dll
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.pdb
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\EX15.genruntimeconfig.cache
+C:\Users\MS.Bazhina\Desktop\курсы\базовые алгоритмы\HW2\EX15\obj\Debug\net7.0\ref\EX15.dll
